@@ -3,7 +3,7 @@
 Coletor de dados da API Rick and Morty
 Documentação: https://rickandmortyapi.com/documentation/
 
-Objetivo:
+Objetivo: 
 - Coletar os seguintes itens:
     - ID
     - Nome do personagem
